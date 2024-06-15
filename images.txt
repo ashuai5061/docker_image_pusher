@@ -1,3 +1,2 @@
-fauria/vsftpd
-nacos/nacos-server
+kartoza/geoserver
 
