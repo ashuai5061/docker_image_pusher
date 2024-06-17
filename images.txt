@@ -1,2 +1,2 @@
-kartoza/geoserver
+oscarfonts/geoserver:2.21.5
 
