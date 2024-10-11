@@ -1,2 +1,2 @@
-docker pull grafana/grafana:main-ubuntu
+grafana/grafana:main-ubuntu
 
