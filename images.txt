@@ -1,2 +1,1 @@
-grafana/grafana:main-ubuntu
-
+seataio/seata-server:2.2
