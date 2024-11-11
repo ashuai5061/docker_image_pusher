@@ -1,1 +1,1 @@
-twang2218/gitlab-ce-zh:11.1.4
+postgres
