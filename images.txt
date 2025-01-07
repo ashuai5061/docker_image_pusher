@@ -1,1 +1,1 @@
-opensnail/snail-job
+powerjob/powerjob-server
