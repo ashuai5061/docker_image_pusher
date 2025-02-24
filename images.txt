@@ -1,1 +1,1 @@
-powerjob/powerjob-server
+timescale/timescaledb-ha:pg17.2-ts2.18.2-all-oss
