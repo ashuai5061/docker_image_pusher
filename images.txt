@@ -1,1 +1,1 @@
-timescale/timescaledb:2.18.1-pg17
+2691432189/easy-dataset
