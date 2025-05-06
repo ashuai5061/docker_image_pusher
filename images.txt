@@ -1,1 +1,1 @@
-frank618825/funasr:v0.0.1
+rocm/vllm-dev:base
