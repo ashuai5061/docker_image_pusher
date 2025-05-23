@@ -1,1 +1,1 @@
-rocm/vllm-dev:base
+opea/gpt-sovits
