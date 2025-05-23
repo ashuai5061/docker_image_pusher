@@ -1,1 +1,1 @@
-opea/gpt-sovits
+breakstring/gpt-sovits
