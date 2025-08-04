@@ -1,1 +1,1 @@
-mineru-sglang
+mineru-sglang:latest
