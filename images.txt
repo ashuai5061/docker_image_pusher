@@ -1,1 +1,1 @@
-alexsuntop/mineru-sglang:latest
+nacos/nacos-server:v3.0.2
