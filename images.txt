@@ -1,1 +1,1 @@
-uusec/openresty-manager
+postgres:alpine3.22
