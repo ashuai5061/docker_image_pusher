@@ -1,1 +1,1 @@
-fabric8/java:8
+duxinglangzi/alpine-java8
