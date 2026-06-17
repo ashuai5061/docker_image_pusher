@@ -1,1 +1,1 @@
-chromedp/headless-shell:149.0.7779.3
+docker.io/library/python:3.9-slim
