@@ -1,1 +1,1 @@
-mysql:8.4
+nvidia/cuda:12.1.1-cudnn9-runtime-ubuntu22.04
