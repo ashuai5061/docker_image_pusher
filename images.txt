@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/hsiang-han/cosyvoice3-api
+harryliu888/cosyvoice
